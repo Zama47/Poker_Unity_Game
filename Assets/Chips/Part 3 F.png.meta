@@ -1,0 +1,2130 @@
+fileFormatVersion: 2
+guid: fcc4290f30e74b944a63fedcd0c427bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1600811803597782722
+    second: Part 3 F_0
+  - first:
+      213: -3940366426872421767
+    second: Part 3 F_1
+  - first:
+      213: -2508434654350884130
+    second: Part 3 F_2
+  - first:
+      213: -2525941804093997199
+    second: Part 3 F_3
+  - first:
+      213: -7973667203950445076
+    second: Part 3 F_4
+  - first:
+      213: 6935706861236346593
+    second: Part 3 F_5
+  - first:
+      213: -8639629321432912223
+    second: Part 3 F_6
+  - first:
+      213: 4476966374960427916
+    second: Part 3 F_7
+  - first:
+      213: 4188025529845986487
+    second: Part 3 F_8
+  - first:
+      213: 2436419885065819694
+    second: Part 3 F_9
+  - first:
+      213: 8188897157714432960
+    second: Part 3 F_10
+  - first:
+      213: -3623713224604350315
+    second: Part 3 F_11
+  - first:
+      213: 3906824112477123985
+    second: Part 3 F_12
+  - first:
+      213: -4764837730865515796
+    second: Part 3 F_13
+  - first:
+      213: 7324432098456066011
+    second: Part 3 F_14
+  - first:
+      213: 1509928999997476237
+    second: Part 3 F_15
+  - first:
+      213: -6067981389976904417
+    second: Part 3 F_16
+  - first:
+      213: -1208462361439023632
+    second: Part 3 F_17
+  - first:
+      213: -7229709242417652145
+    second: Part 3 F_18
+  - first:
+      213: -4088487560363714920
+    second: Part 3 F_19
+  - first:
+      213: -3082497348097104702
+    second: Part 3 F_20
+  - first:
+      213: 1208774850145743515
+    second: Part 3 F_21
+  - first:
+      213: -1704473282780049069
+    second: Part 3 F_22
+  - first:
+      213: -6807766847813981236
+    second: Part 3 F_23
+  - first:
+      213: 3409927197667471695
+    second: Part 3 F_24
+  - first:
+      213: 3904252135406225588
+    second: Part 3 F_25
+  - first:
+      213: 8332365297262014978
+    second: Part 3 F_26
+  - first:
+      213: 2138703220505908577
+    second: Part 3 F_27
+  - first:
+      213: 289243554933183655
+    second: Part 3 F_28
+  - first:
+      213: -5563853102976228042
+    second: Part 3 F_29
+  - first:
+      213: -4843075471952220976
+    second: Part 3 F_30
+  - first:
+      213: 427459554561994360
+    second: Part 3 F_31
+  - first:
+      213: 7877064090866394596
+    second: Part 3 F_32
+  - first:
+      213: -414501129431787901
+    second: Part 3 F_33
+  - first:
+      213: 6262759081279117349
+    second: Part 3 F_34
+  - first:
+      213: 9043560135875286975
+    second: Part 3 F_35
+  - first:
+      213: 5692950644460645925
+    second: Part 3 F_36
+  - first:
+      213: 5246031772325247284
+    second: Part 3 F_37
+  - first:
+      213: -975954053865132084
+    second: Part 3 F_38
+  - first:
+      213: 6277306352807427585
+    second: Part 3 F_39
+  - first:
+      213: -8306096138897095764
+    second: Part 3 F_40
+  - first:
+      213: 5689773390026120934
+    second: Part 3 F_41
+  - first:
+      213: 2236861897899484274
+    second: Part 3 F_42
+  - first:
+      213: 9217676121826457486
+    second: Part 3 F_43
+  - first:
+      213: 7970273039252168569
+    second: Part 3 F_44
+  - first:
+      213: -6359554920229923000
+    second: Part 3 F_45
+  - first:
+      213: -4746744225890803994
+    second: Part 3 F_46
+  - first:
+      213: 7841297775873212111
+    second: Part 3 F_47
+  - first:
+      213: 1463758984183434562
+    second: Part 3 F_48
+  - first:
+      213: -7034519154291834951
+    second: Part 3 F_49
+  - first:
+      213: 7106195614334600973
+    second: Part 3 F_50
+  - first:
+      213: -6773687539438639365
+    second: Part 3 F_51
+  - first:
+      213: 785810643416872852
+    second: Part 3 F_52
+  - first:
+      213: 6380789390421083693
+    second: Part 3 F_53
+  - first:
+      213: 7121465660547013947
+    second: Part 3 F_54
+  - first:
+      213: 8952088540788841402
+    second: Part 3 F_55
+  - first:
+      213: -2341758864188052128
+    second: Part 3 F_56
+  - first:
+      213: -193029872892121253
+    second: Part 3 F_57
+  - first:
+      213: -7851916279468410530
+    second: Part 3 F_58
+  - first:
+      213: -1351799185453275454
+    second: Part 3 F_59
+  - first:
+      213: 285415328031947644
+    second: Part 3 F_60
+  - first:
+      213: 7364203043913090474
+    second: Part 3 F_61
+  - first:
+      213: 6321540474132236434
+    second: Part 3 F_62
+  - first:
+      213: 6549933021320629595
+    second: Part 3 F_63
+  - first:
+      213: 8670891477067004711
+    second: Part 3 F_64
+  - first:
+      213: 8628367981442155979
+    second: Part 3 F_65
+  - first:
+      213: 6720228605637076989
+    second: Part 3 F_66
+  - first:
+      213: -7983907158370763044
+    second: Part 3 F_67
+  - first:
+      213: 2846897333509966689
+    second: Part 3 F_68
+  - first:
+      213: -8635137308399909536
+    second: Part 3 F_69
+  - first:
+      213: -1257972090964815906
+    second: Part 3 F_70
+  - first:
+      213: 7702032012747721935
+    second: Part 3 F_71
+  - first:
+      213: 6920316888090050873
+    second: Part 3 F_72
+  - first:
+      213: 6510659086502385505
+    second: Part 3 F_73
+  - first:
+      213: -7603992698154499127
+    second: Part 3 F_74
+  - first:
+      213: -5796544822193387799
+    second: Part 3 F_75
+  - first:
+      213: 8375352802512394339
+    second: Part 3 F_76
+  - first:
+      213: 782265224091248729
+    second: Part 3 F_77
+  - first:
+      213: 8827095808027591736
+    second: Part 3 F_78
+  - first:
+      213: 9208315263667788027
+    second: Part 3 F_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Part 3 F_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e314d466526c8c9e0800000000000000
+      internalID: -1600811803597782722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e4699c910159c0800000000000000
+      internalID: -3940366426872421767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2c22dd8ff303dd0800000000000000
+      internalID: -2508434654350884130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ffaabef4d02fcd0800000000000000
+      internalID: -2525941804093997199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedf95f9ce7d75190800000000000000
+      internalID: -7973667203950445076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee5b32b4a4904060800000000000000
+      internalID: 6935706861236346593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae21f828eed91880800000000000000
+      internalID: -8639629321432912223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8372e2b231612e30800000000000000
+      internalID: 4476966374960427916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4bcb0c70bde1a30800000000000000
+      internalID: 4188025529845986487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 253
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26db0d0af6efc120800000000000000
+      internalID: 2436419885065819694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c356cb049ec4a170800000000000000
+      internalID: 8188897157714432960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598829f750cf5bdc0800000000000000
+      internalID: -3623713224604350315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953120c4d3d73630800000000000000
+      internalID: 3906824112477123985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f1673455efddb0800000000000000
+      internalID: -4764837730865515796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd751f1ef2c95a560800000000000000
+      internalID: 7324432098456066011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d09e0fc6854f410800000000000000
+      internalID: 1509928999997476237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ddeba43133acba0800000000000000
+      internalID: -6067981389976904417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd4ffd82edaa3fe0800000000000000
+      internalID: -1208462361439023632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e5658afb9eaab90800000000000000
+      internalID: -7229709242417652145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896daefb936c247c0800000000000000
+      internalID: -4088487560363714920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a6916ef4c835d0800000000000000
+      internalID: -3082497348097104702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92fc54625e66c010800000000000000
+      internalID: 1208774850145743515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35150ca749e7858e0800000000000000
+      internalID: -1704473282780049069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbed5afe14f581a0800000000000000
+      internalID: -6807766847813981236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41b9ee38be725f20800000000000000
+      internalID: 3409927197667471695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8c27ca1a0be2630800000000000000
+      internalID: 3904252135406225588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2023812571282a370800000000000000
+      internalID: 8332365297262014978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1651d3a6f333ead10800000000000000
+      internalID: 2138703220505908577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_28
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a41d511b79930400800000000000000
+      internalID: 289243554933183655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_29
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 181
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a5a6d41939c2b0800000000000000
+      internalID: -5563853102976228042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc61e99480f9ccb0800000000000000
+      internalID: -4843075471952220976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea3893334aee500800000000000000
+      internalID: 427459554561994360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5a3116e04f05d60800000000000000
+      internalID: 7877064090866394596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386583d3b656f3af0800000000000000
+      internalID: -414501129431787901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5285e71f33ac9e650800000000000000
+      internalID: 6262759081279117349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7dabb570e218d70800000000000000
+      internalID: 9043560135875286975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e68e6d27c610f40800000000000000
+      internalID: 5692950644460645925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439fbdd2a16adc840800000000000000
+      internalID: 5246031772325247284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_38
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf244675f6b472f0800000000000000
+      internalID: -975954053865132084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_39
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 145
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb3698ed87d1750800000000000000
+      internalID: 6277306352807427585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca38bcab191dabc80800000000000000
+      internalID: -8306096138897095764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1af4a0c226fe40800000000000000
+      internalID: 5689773390026120934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274a7e37b0eea0f10800000000000000
+      internalID: 2236861897899484274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87f0107893cbef70800000000000000
+      internalID: 9217676121826457486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f9f73d9191c9e60800000000000000
+      internalID: 7970273039252168569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479b129e725eb7a0800000000000000
+      internalID: -6359554920229923000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee5420a64d202eb0800000000000000
+      internalID: -4746744225890803994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcebbfc38c2e1dc60800000000000000
+      internalID: 7841297775873212111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_48
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d4a017a01505410800000000000000
+      internalID: 1463758984183434562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_49
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 109
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bff0c2891e506e90800000000000000
+      internalID: -7034519154291834951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d074ad0d2474e9260800000000000000
+      internalID: 7106195614334600973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6254842170ff1a0800000000000000
+      internalID: -6773687539438639365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4977595ed92c7ea00800000000000000
+      internalID: 785810643416872852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2641aac42e1d8850800000000000000
+      internalID: 6380789390421083693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d1c01894784d260800000000000000
+      internalID: 7121465660547013947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb509ff8153c3c70800000000000000
+      internalID: 8952088540788841402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06de27e58b6608fd0800000000000000
+      internalID: -2341758864188052128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_57
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe9337a58325df0800000000000000
+      internalID: -193029872892121253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_58
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59bd2cbeb3680390800000000000000
+      internalID: -7851916279468410530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_59
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 73
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6256f8dc17d3de0800000000000000
+      internalID: -1351799185453275454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bbbc88abff5f300800000000000000
+      internalID: 285415328031947644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa54a46b6a7e23660800000000000000
+      internalID: 7364203043913090474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29808e9719f9ab750800000000000000
+      internalID: 6321540474132236434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dca6e316906ea50800000000000000
+      internalID: 6549933021320629595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b7a88abd1355870800000000000000
+      internalID: 8670891477067004711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c63dc6fe1eb770800000000000000
+      internalID: 8628367981442155979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7aa60cf4c034d50800000000000000
+      internalID: 6720228605637076989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_67
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdebc917db6733190800000000000000
+      internalID: -7983907158370763044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_68
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b4ed39a06328720800000000000000
+      internalID: 2846897333509966689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_69
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 37
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c9127e54d92880800000000000000
+      internalID: -8635137308399909536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfcfac5c09ca8ee0800000000000000
+      internalID: -1257972090964815906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc388fe4d13ea60800000000000000
+      internalID: 7702032012747721935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_72
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318eb75b87e90060800000000000000
+      internalID: 6920316888090050873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_73
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167d4a8b1f18a5a50800000000000000
+      internalID: 6510659086502385505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c346dfbde0397690800000000000000
+      internalID: -7603992698154499127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_75
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6888412398e8fa0800000000000000
+      internalID: -5796544822193387799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_76
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368d256dffa3b3470800000000000000
+      internalID: 8375352802512394339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_77
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958a912a31a2bda00800000000000000
+      internalID: 782265224091248729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_78
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83403d39ed4208a70800000000000000
+      internalID: 8827095808027591736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Part 3 F_79
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8d9bec1f18acf70800000000000000
+      internalID: 9208315263667788027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
