@@ -7,9 +7,8 @@
 
 > Карточный покер на Unity, где вы сражаетесь один на один с ИИ-ботом. Реализованы все основные комбинации и упрощённая логика ставок.
 
-![Геймплей]
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/c0f3498c-9074-4054-86ed-515ae078137a" />
 
-![[Pasted image 20260828131038.png]]
 
 ---
 
@@ -49,11 +48,17 @@
 
 | Начало игры | Раздача и ставки | Открытие трёх карт |
 |:---:|:---:|:---:|
-| ![Начало](![[Pasted image 20260828130943.png]]) | ![Раздача](![[Pasted image 20260828130953.png]]) | ![Флоп](![[Pasted image 20260828131038.png]]) |
+| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/58720c21-4c33-42fe-9e18-fe6131457cfa" />
+| <img width="2552" height="1439" alt="image" src="https://github.com/user-attachments/assets/bacc058d-6b80-4c65-bfe8-f6b459266b53" />
+| <img width="2556" height="1437" alt="image" src="https://github.com/user-attachments/assets/0b28f228-9edd-4ed2-8663-400fd71e286e" />
+|
 
 | Победа после сброса врага | Враг идёт ва-банк | Конец игры |
 |:---:|:---:|:---:|
-| ![Победа](![[Pasted image 20260828131123.png]]) | ![Ва-банк](![[Pasted image 20260828131246.png]]) | ![Конец](![[Pasted image 20260828131313.png]]) |
+| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/3d2d2b5a-222a-4af7-9e66-1696eca64cb0" />
+| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/9fbb698b-038c-4c82-afdc-09fc0682b1ce" />
+| <img width="2549" height="1439" alt="image" src="https://github.com/user-attachments/assets/6b8b492c-9fe1-41d1-99e5-95ace79c7f3a" />
+|
 
 ---
 
