@@ -44,35 +44,6 @@
 
 ---
 
-## 🎬 Скриншоты
-
-
-| Начало игры |
-|:---:|
-| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/58720c21-4c33-42fe-9e18-fe6131457cfa" />
-
-| Раздача и первые ставки |
-|:---:|
-| <img width="2552" height="1439" alt="image" src="https://github.com/user-attachments/assets/bacc058d-6b80-4c65-bfe8-f6b459266b53" />
-
-| Открытие трех карт |
-|:---:|
-| <img width="2556" height="1437" alt="image" src="https://github.com/user-attachments/assets/0b28f228-9edd-4ed2-8663-400fd71e286e" />
-
-| Победа после сброса врага  |
-|:---:|
-| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/3d2d2b5a-222a-4af7-9e66-1696eca64cb0" />
-
-| Враг идёт ва-банк |
-|:---:|
-| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/9fbb698b-038c-4c82-afdc-09fc0682b1ce" />
-
-| Конец игры |
-|:---:|
-| <img width="2549" height="1439" alt="image" src="https://github.com/user-attachments/assets/6b8b492c-9fe1-41d1-99e5-95ace79c7f3a" />
-
----
-
 ## 🧩 Архитектура проекта
 
 ```mermaid
@@ -121,3 +92,33 @@ classDiagram
     Player --> Card
     Bot --> Card
     HandEvaluator --> Card
+```
+---
+
+## 🎬 Скриншоты
+
+
+| Начало игры |
+|:---:|
+| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/58720c21-4c33-42fe-9e18-fe6131457cfa" />
+
+| Раздача и первые ставки |
+|:---:|
+| <img width="2552" height="1439" alt="image" src="https://github.com/user-attachments/assets/bacc058d-6b80-4c65-bfe8-f6b459266b53" />
+
+| Открытие трех карт |
+|:---:|
+| <img width="2556" height="1437" alt="image" src="https://github.com/user-attachments/assets/0b28f228-9edd-4ed2-8663-400fd71e286e" />
+
+| Победа после сброса врага  |
+|:---:|
+| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/3d2d2b5a-222a-4af7-9e66-1696eca64cb0" />
+
+| Враг идёт ва-банк |
+|:---:|
+| <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/9fbb698b-038c-4c82-afdc-09fc0682b1ce" />
+
+| Конец игры |
+|:---:|
+| <img width="2549" height="1439" alt="image" src="https://github.com/user-attachments/assets/6b8b492c-9fe1-41d1-99e5-95ace79c7f3a" />
+
